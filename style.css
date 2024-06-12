@@ -1,0 +1,33 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: aqua;
+}
+#word-container {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+#guess-input {
+    margin-bottom: 20px;
+}
+#guess {
+    padding: 5px;
+}
+button {
+    padding: 5px 10px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #0056B3;
+}
+
+
+
+
+   
+  
+
